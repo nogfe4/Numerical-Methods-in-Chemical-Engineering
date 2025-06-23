@@ -1,7 +1,7 @@
 clear;clc;close
 
 Re = 5000
-
+''' Este código é a resolução do exercício 4.8 (item a) do Livro: Métodos Numéricos para Engenheiros Químicos - Algoritmos e aplicaçõe  - Argimiro R. Secchi e Evaristo C. Biscaia Jr. '''
 
 function f = func(x)
     f = sqrt(x) - x*(1.74*log(Re*sqrt(x)-0.4))
