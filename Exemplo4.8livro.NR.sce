@@ -26,4 +26,6 @@ while abs(f0) > tol & IT < ITMAX
     else
         passo = passo/2
     end
-end
+end 
+
+disp(x)
