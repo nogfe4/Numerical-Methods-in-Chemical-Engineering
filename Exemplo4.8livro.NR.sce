@@ -28,4 +28,4 @@ while abs(f0) > tol & IT < ITMAX
     end
 end 
 
-disp(x)
+disp(x1)
