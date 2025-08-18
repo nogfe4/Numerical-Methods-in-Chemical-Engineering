@@ -9,7 +9,7 @@ The main goal of this project is to provide a practical and computational refere
 
 ## 💻 Technologies Used
 
-  * **Python 3.x**: Through [Jupyter Notebooks](https://jupyter.org/) (`.ipynb`) for a more interactive and visual analysis of the problems.
+  * **Python 3.13**: Through [Jupyter Notebooks](https://jupyter.org/) (`.ipynb`) for a more interactive and visual analysis of the problems.
       * *Main libraries:* `NumPy`, `SciPy`, `Matplotlib` (feel free to add any others you use).
   * **Scilab**: Scripts (`.sce`) for solutions using a powerful open-source alternative for numerical computation.
 
@@ -73,7 +73,7 @@ O objetivo principal deste projeto é fornecer uma referência prática e comput
 
 ## 💻 Tecnologias Utilizadas
 
-  * **Python 3.x**: Através de [Jupyter Notebooks](https://jupyter.org/) (`.ipynb`) para uma análise mais interativa e visual dos problemas.
+  * **Python 3.13**: Através de [Jupyter Notebooks](https://jupyter.org/) (`.ipynb`) para uma análise mais interativa e visual dos problemas.
       * *Principais bibliotecas:* `NumPy`, `SciPy`, `Matplotlib` (você pode adicionar outras que usar).
   * **Scilab**: Scripts (`.sce`) para soluções utilizando uma alternativa de software livre poderosa para computação numérica.
 
@@ -126,6 +126,7 @@ Contribuições são bem-vindas\! Se você tiver um novo exemplo, uma otimizaç�
 3.  Fazer o **Commit** com suas alterações (`git commit -m 'Adiciona solução do problema X'`).
 4.  Fazer o **Push** para a Branch (`git push origin feature/novo-exemplo`).
 5.  Abrir um **Pull Request**.
+
 
 
 
