@@ -1,4 +1,7 @@
-# Numerical Methods in Chemical Engineering
+# Numerical Methods in Chemical Engineering 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) 
+![Status](https://img.shields.io/badge/Status-Concluído-green)
 
 [EN]: 
 This repository contains a collection of **Python** (using Jupyter Notebooks) and **Scilab** scripts for solving numerical problems applied to Chemical Engineering, based on examples from textbooks in the field.
@@ -126,6 +129,7 @@ Contribuições são bem-vindas\! Se você tiver um novo exemplo, uma otimizaç�
 3.  Fazer o **Commit** com suas alterações (`git commit -m 'Adiciona solução do problema X'`).
 4.  Fazer o **Push** para a Branch (`git push origin feature/novo-exemplo`).
 5.  Abrir um **Pull Request**.
+
 
 
 
